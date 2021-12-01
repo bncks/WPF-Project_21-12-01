@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\bin\Debug\Flappy_Rabbit.exe.config
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\bin\Debug\Flappy_Rabbit.exe
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\bin\Debug\Flappy_Rabbit.pdb
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit_MarkupCompile.cache
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit_MarkupCompile.lref
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.g.resources
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.Properties.Resources.resources
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.exe
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Flappy_Rabbit.pdb
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Entry.g.cs
+C:\Users\User\Desktop\Flappy_Rabbit\Flappy_Rabbit\obj\Debug\Entry.baml
